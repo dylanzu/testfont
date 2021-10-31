@@ -1,6 +1,6 @@
 @font-face {
     font-family: SmbWeb;
-    src: url('../smw.ttf') format("truetype");
+    src: url('https://dylanzu.github.io/testfont/smw.ttf') format("truetype");
 }
 
 @keyframes glow {
